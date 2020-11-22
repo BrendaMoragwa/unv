@@ -32,9 +32,6 @@ View::composer(['*'], function($view){
     
     $user = Auth::user();
     $view->with('user',$user);
-    
-
-    
 
 });
 

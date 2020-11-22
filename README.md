@@ -30,5 +30,9 @@ Now you are done.
 
 ` php artisan serve ` and open the project on the browser. 
 
+Login credentials  
+user name : admin@mail.com
+password :  admin1234
+
 
 
